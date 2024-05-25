@@ -32,7 +32,7 @@
 Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv).
 
 ## Steps:
-- The main task was to create an interactive dashboard using [looker](https://lookerstudio.google.com/u/0/navigation/reporting) to visualize key insights from the provided dataset by following the steps below.
+- The main task was to create an interactive dashboard using [Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting) to visualize key insights from the provided dataset by following the steps below.
 ### Data Exploration
  -  I began by exploring the dataset to understand its structure and contents.
  -  Identified potential data quality issues that needed to be addressed and fixed.
