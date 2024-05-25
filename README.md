@@ -29,10 +29,10 @@
    -  Newsletter: Subscription status for newsletter (0 for not subscribed, 1 for subscribed)
    -  Voucher: Voucher usage status (0 for not used, 1 for used)
 
-Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv)
+Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv).
 
 ## Steps:
-- The main task is to create an interactive dashboard using *Looker* to visualize key insights from the provided dataset by following the steps below.
+- The main task was to create an interactive dashboard using *Looker* to visualize key insights from the provided dataset by following the steps below.
 ### Data Exploration
  -  I began by exploring the dataset to understand its structure and contents.
  -  Identified potential data quality issues that needed to be addressed and fixed.
