@@ -29,7 +29,7 @@
    -  Newsletter: Subscription status for newsletter (0 for not subscribed, 1 for subscribed)
    -  Voucher: Voucher usage status (0 for not used, 1 for used)
 
-Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv).
+Here is the dataset that I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv).
 
 ## Steps:
 - The main task was to create an interactive dashboard using [Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting) to visualize key insights from the dataset by following the steps below.
