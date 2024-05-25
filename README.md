@@ -5,13 +5,13 @@
 
 
 ## Table of contents
-- [Dataset Description](##Dataset-description)
-- [Steps:](##Steps)
-  - [Data Exploration](###Data-Exploration)
-  - [Dashboard Design](###Dashboard-Design)
-    - [Dashboard Components](####Dashboard-Components)
-    - [Interactivity](####Interactivity)
-  - [Dashboard Presentation](###Dashboard-Presentation)
+- [Dataset Description](#Dataset-description)
+- [Steps:](#Steps)
+  - [Data Exploration](#Data-Exploration)
+  - [Dashboard Design](#Dashboard-Design)
+    - [Dashboard Components](#Dashboard-Components)
+    - [Interactivity](#Interactivity)
+  - [Dashboard Presentation](#Dashboard-Presentation)
 
 
 ## Dataset Description
