@@ -32,7 +32,7 @@
 Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_Shop_Customer_Sales_Data.csv)
 
 ## Steps:
-- The main task is to create an interactive dashboard using Looker to visualize key insights from the provided dataset by following the steps below.
+- The main task is to create an interactive dashboard using *Looker* to visualize key insights from the provided dataset by following the steps below.
 ### Data Exploration
  -  I began by exploring the dataset to understand its structure and contents.
  -  Identified potential data quality issues that needed to be addressed and fixed.
@@ -40,13 +40,13 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
  -  Designed a dashboard layout that highlights key metrics and trends related to online retail sales transactions.
 #### Dashboard Components
 - Included the following visualization components in my dashboard:
-  -  A line chart showing trends in revenue over time.
-  -  A bar chart comparing the distribution of purchase values across different payment methods.
-  -  A pie chart illustrating the gender distribution of customers.
-  -  A scatter plot showing the relationship between age and purchase value.
-  -  A KPI scorecard summarizing key performance indicators such as total revenue, average purchase value, and number of purchases.
+  -  A *line chart* showing trends in revenue over time.
+  -  A *bar chart* comparing the distribution of purchase values across different payment methods.
+  -  A *pie chart* illustrating the gender distribution of customers.
+  -  A *scatter plot* showing the relationship between age and purchase value.
+  -  A *KPI scorecard* summarizing key performance indicators such as total revenue, average purchase value, and number of purchases.
 #### Interactivity
- -  Implemented interactive features such as slider and date range control to allow users to explore the data dynamically.
+ -  Implemented interactive features such as *slider* and *date range control* to allow users to explore the data dynamically.
 ### Dashboard Presentation
 -  Ensured that my dashboard is visually appealing, easy to navigate, and effectively communicates key insights from the dataset.
 
@@ -61,5 +61,8 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
 
 ### Based on customers who are male
 ![Male](assets/images/Male.png)
+
+
+
 
 
