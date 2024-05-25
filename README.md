@@ -38,6 +38,7 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
  -  Identified potential data quality issues that needed to be addressed and fixed.
 ### Dashboard Design
  -  Designed a dashboard layout that highlights key metrics and trends related to online retail sales transactions.
+   
 #### Dashboard Components
 - Included the following visualization components in my dashboard:
   -  A *line chart* showing trends in revenue over time.
@@ -45,6 +46,7 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
   -  A *pie chart* illustrating the gender distribution of customers.
   -  A *scatter plot* showing the relationship between age and purchase value.
   -  A *KPI scorecard* summarizing key performance indicators such as total revenue, average purchase value, and number of purchases.
+    
 #### Interactivity
  -  Implemented interactive features such as *slider* and *date range control* to allow users to explore the data dynamically.
 ### Dashboard Presentation
