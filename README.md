@@ -33,9 +33,11 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
 
 ## Steps:
 - The main task was to create an interactive dashboard using [Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting) to visualize key insights from the dataset by following the steps below.
+  
 ### Data Exploration
  -  I began by exploring the dataset using MS Excel to understand its structure and contents.
  -  Identified potential data quality issues that needed to be addressed and fixed.
+   
 ### Dashboard Design
  -  Designed a dashboard layout that highlights key metrics and trends related to online retail sales transactions.
    
@@ -49,6 +51,7 @@ Get the dataset I used [Online Shop Customer Sales Data](assets/dataset/Online_S
     
 #### Interactivity
  -  Implemented interactive features such as *slider* and *date range control* to allow users to explore the data dynamically.
+   
 ### Dashboard Presentation
 -  Ensured that my dashboard is visually appealing, easy to navigate, and effectively communicates key insights from the dataset.
 
